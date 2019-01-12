@@ -1,5 +1,5 @@
 {
-  "name": "showdown-katex",
+  "name": "showdown-katex-studdown",
   "author": "obedm503",
   "homepage": "https://obedm503.github.io/showdown-katex/",
   "description": "showdown extension that adds latex and asciimath support thru katex",
@@ -28,7 +28,7 @@
     "test": "BABEL_ENV=test ava ./src/*.spec.js --verbose",
     "lint": "eslint ."
   },
-  "npmName": "showdown-katex",
+  "npmName": "showdown-katex-studdown",
   "npmFileMap": [
     {
       "basePath": ".",
